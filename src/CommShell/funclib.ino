@@ -1,6 +1,6 @@
 typedef struct _funitem{
-  string cmd;
-  (void *) func();
+  //string cmd;
+  //(void *) func();
 } FunItem;
 
 
